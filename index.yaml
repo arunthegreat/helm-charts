@@ -3,12 +3,23 @@ entries:
   customer:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-05-18T22:15:43.7175221+01:00"
+    created: "2025-05-21T13:56:16.5875176+01:00"
     description: A Helm chart for Kubernetes
-    digest: 0610ccaa530e60a7285ba4c611b84f6692b8872fca8f3abca5efe317e5c7230a
+    digest: 554ca7c23eab045a6fcdab3f51aac6d79ced905dd9d056bef11fb6ddeb8979c8
     name: customer
     type: application
     urls:
     - customer-0.1.0.tgz
     version: 0.1.0
-generated: "2025-05-18T22:15:43.7141806+01:00"
+  online-shop:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-05-21T13:56:16.5880292+01:00"
+    description: A Helm chart for Kubernetes
+    digest: a4c7ccdd8787bd7f5ced061fe520ca977f27c51334f33e8ee19c072cc0c9bdc8
+    name: online-shop
+    type: application
+    urls:
+    - online-shop-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-05-21T13:56:16.5854817+01:00"
